@@ -1,2 +1,2 @@
-# Climate-Claims
+# Test
 Test repository
